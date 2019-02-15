@@ -1,4 +1,4 @@
 # nodelight
 
 
-Required Hardware => <b>fybg</b?
+Required Hardware => <b>fybg</b>
