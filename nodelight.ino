@@ -21,10 +21,10 @@ void setup() {
   Serial.begin(9600);
   WiFi.begin(ssid, password);
  pinMode(D4, OUTPUT);
- pinMode(D1, OUTPUT); //you can change pin
- pinMode(D2, OUTPUT);
- pinMode(D3, OUTPUT);
- pinMode(D0, OUTPUT);
+ pinMode(D1, OUTPUT); //Relay 1
+ pinMode(D2, OUTPUT); //Relay 2
+ pinMode(D3, OUTPUT); //Relay 3
+ pinMode(D0, OUTPUT); //Relay 4
   while (WiFi.status() != WL_CONNECTED) {
     digitalWrite(D4,HIGH);
     delay(500);
