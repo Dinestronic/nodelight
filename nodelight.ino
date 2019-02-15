@@ -10,7 +10,7 @@
 
 const char* ssid = "WiFi_Name";                                       //WiFi Name
 const char* password = "WiFi_Password";                           //WiFi Password
-String nodelight_id = "Nodelight_ID";               //Nodelight App Registered ID
+String nodelight_id = "Controller_Key";               //Nodelight App Registered ID
 
 //-------------------------------------------------------------------------
 
