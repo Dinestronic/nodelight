@@ -1,7 +1,7 @@
 # nodelight
 
 
-Required Hardware => <b>NodeMCU</b>
+Required Hardware => <b>NodeMCU</b> and <b>Relay</b>
 
 Required Arduino Libraries => <b>1) ESP8266WiFi.h </b>
                               <b>2) ESP8266HTTPClient.h </b>
